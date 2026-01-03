@@ -7,5 +7,7 @@ public class MavenPracticeTest {
 	@Test
 	public void mavenPracticeTest() {
 		System.out.println("Hiiiii Maven");
+		System.out.println("Byeee Maven");
+		
 	}
 }
